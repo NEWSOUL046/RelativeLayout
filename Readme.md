@@ -6,3 +6,6 @@
 ![image](https://developer.android.google.cn/images/ui/relativelayout.png)
 
 实验运行截图：
+
+
+![image](https://github.com/NEWSOUL046/LinearLayout/blob/master/Layout/RL.png)
